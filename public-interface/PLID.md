@@ -16,7 +16,7 @@ When building an internal application, you can refactor quickly because you cont
   - [PLID-12 Consistency Across Surface Area](#plid-12-consistency-across-surface-area)
 
 - **Part II — Evolution & Governance**
-  - [PLID-20 Evolvability & Future Change](#plid-20-evolvability--future-change)
+  - [PLID-20 Evolvability & Future Change](#plid-20-evolvability-and-future-change)
   - [PLID-21 Governance, Versioning & Release Discipline](#plid-21-governance-versioning-and-release-discipline)
 
 - **Part III — Boundaries & Ecosystem Integration**
