@@ -11,34 +11,34 @@ When building an internal application, you can refactor quickly because you cont
 ## Table of Contents
 
 - **Part I — Contract Foundations**
-  - [PLID-10 Public Contract Definition & Stability](#plid-10-public-contract-definition--stability)
-  - [PLID-11 Meaningful Types & Misuse-Resistant Modeling](#plid-11-meaningful-types--misuse-resistant-modeling)
+  - [PLID-10 Public Contract Definition & Stability](#plid-10-public-contract-definition-and-stability)
+  - [PLID-11 Meaningful Types & Misuse-Resistant Modeling](#plid-11-meaningful-types-and-misuse-resistant-modeling)
   - [PLID-12 Consistency Across Surface Area](#plid-12-consistency-across-surface-area)
 
 - **Part II — Evolution & Governance**
-  - [PLID-20 Evolvability & Future Change](#PLID-20-evolvability--future-change)
-  - [PLID-21 Governance, Versioning & Release Discipline](#plid-21-governance-versioning--release-discipline)
+  - [PLID-20 Evolvability & Future Change](#plid-20-evolvability--future-change)
+  - [PLID-21 Governance, Versioning & Release Discipline](#plid-21-governance-versioning-and-release-discipline)
 
 - **Part III — Boundaries & Ecosystem Integration**
-  - [PLID-30 Dependency & Boundary Design](#plid-30-dependency--boundary-design)
-  - [PLID-31 Cross-Language & Wire Contracts](#plid-31-cross-language--wire-contracts)
+  - [PLID-30 Dependency & Boundary Design](#plid-30-dependency-and-boundary-design)
+  - [PLID-31 Cross-Language & Wire Contracts](#plid-31-cross-language-and-wire-contracts)
 
 - **Part IV — Usability & Consumer Experience**
-  - [PLID-40 Ergonomics & Discoverability](#plid-40-ergonomics--discoverability)
-  - [PLID-41 Validation, Safe Defaults & Construction](#plid-41-validation-safe-defaults--construction)
+  - [PLID-40 Ergonomics & Discoverability](#plid-40-ergonomics-and-discoverability)
+  - [PLID-41 Validation, Safe Defaults & Construction](#plid-41-validation-safe-defaults-and-construction)
   - [PLID-42 Documentation as Product](#plid-42-documentation-as-product)
-  - [PLID-43 Testing & Verification of Public Contracts](#plid-43-testing--verification-of-public-contracts)
+  - [PLID-43 Testing & Verification of Public Contracts](#plid-43-testing-and-verification-of-public-contracts)
 
 - **Part V — Runtime Behavior & Operations**
-  - [PLID-50 Error & Failure Contracts](#plid-50-error--failure-contracts)
-  - [PLID-51 Concurrency, Cancellation & Execution Model](#plid-51-concurrency-cancellation--execution-model)
-  - [PLID-52 Performance & Resource Contracts](#plid-52-performance--resource-contracts)
-  - [PLID-53 Observability & Operational Readiness](#plid-53-observability--operational-readiness)
-  - [PLID-54 Security Boundaries & Hazardous Operations](#plid-54-security-boundaries--hazardous-operations)
-  - [PLID-55 State Mutation & Side Effects](#plid-55-state-mutation--side-effects)
-  - [PLID-56 Data Lifecycle & Retention](#plid-56-data-lifecycle--retention)
+  - [PLID-50 Error & Failure Contracts](#plid-50-error-and-failure-contracts)
+  - [PLID-51 Concurrency, Cancellation & Execution Model](#plid-51-concurrency-cancellation-and-execution-model)
+  - [PLID-52 Performance & Resource Contracts](#plid-52-performance-and-resource-contracts)
+  - [PLID-53 Observability & Operational Readiness](#plid-53-observability-and-operational-readiness)
+  - [PLID-54 Security Boundaries & Hazardous Operations](#plid-54-security-boundaries-and-hazardous-operations)
+  - [PLID-55 State Mutation & Side Effects](#plid-55-state-mutation-and-side-effects)
+  - [PLID-56 Data Lifecycle & Retention](#plid-56-data-lifecycle-and-retention)
 
-- [Minimal Release Checklist](#minimal-release-checklist)
+- [Minimal Release Checklist](#minimal-reviewapproval-checklist)
 - [Core Principle](#core-principle)
 
 
